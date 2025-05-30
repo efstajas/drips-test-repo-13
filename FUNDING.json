@@ -11,6 +11,9 @@
     },
     "metis": {
       "ownedBy": "0xbBeCF957B4F164f5Ab84Ea8E74b70C230C672d96"
+    },
+    "localtestnet": {
+      "ownedBy": "0x877e6c6D3706EceD8871D329fF2f94bb2c5984a5"
     }
   }
 }
